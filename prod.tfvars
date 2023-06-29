@@ -1,0 +1,5 @@
+ami-type = "ami-022e1a32d3f742bd8"
+instance_type = "t3.small"
+env = "prod"
+instance-name = "Dylanec2-server-prod"
+team = "prod team"
